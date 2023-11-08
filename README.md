@@ -28,7 +28,8 @@ I began moving the building by adding the x. I got some interesting visual effec
 ![image description](./8.png)
 ![image description](./9.png)
 
-
+# Challenges of using others' code
+Based on our conversation, I would say we need to carefully read the document the creators leave. I had to trace certain shapes back to the c2js file to have a better understanding. Also, it invloves a lot of trying to understand which parameter controls what part of shape. 
 
 
 
